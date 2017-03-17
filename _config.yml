@@ -33,3 +33,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+paginate: 5 
+paginate_path: /page:num/
