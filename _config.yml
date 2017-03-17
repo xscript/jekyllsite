@@ -32,3 +32,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
